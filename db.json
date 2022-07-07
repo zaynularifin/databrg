@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "nama": "roti",
+      "jumlah": "300",
+      "keterangan": "ada",
+      "tanggal": "12/09/2022",
+      "id": 1
+    },
+    {
+      "nama": "kitket",
+      "jumlah": "3",
+      "keterangan": "ada",
+      "tanggal": "18/09/2022",
+      "id": 2
+    },
+    {
+      "nama": "es",
+      "jumlah": "400",
+      "keterangan": "ada",
+      "tanggal": "19/09/2022",
+      "id": 3
+    }
+  ]
+}
